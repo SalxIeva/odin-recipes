@@ -28,6 +28,11 @@ h1 {
     text-align: center; */
     padding: 15px;
     font-size: 24px;
-
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #070736;
 }
 
+a {
+    text-decoration: none;
+
+}

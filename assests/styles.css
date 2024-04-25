@@ -1,0 +1,23 @@
+* {
+    background-color: #f5deb3;
+};
+
+h1 {
+    font-size: 30px;
+}
+#header {
+    box-shadow: 6px 6px rgb(227, 164, 101);
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    /* margin: 20px 20px; */
+    padding: 15px 15px;
+    background-color: tomato;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    text-shadow: 2px 2px #f5deb3;
+}
+

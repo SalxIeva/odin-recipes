@@ -1,5 +1,6 @@
 * {
     background-color: #f5deb3;
+    /* border: 2px solid red; */
 };
 
 h1 {
@@ -71,3 +72,9 @@ a {
     text-decoration: underline;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.bodyContainer {
+    display: inline-block;
+    text-align: center;
+}
+

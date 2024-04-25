@@ -21,3 +21,13 @@ h1 {
     text-shadow: 2px 2px #f5deb3;
 }
 
+.item {
+    display: flex;
+    justify-content: center;
+    /* display: inline-block;
+    text-align: center; */
+    padding: 15px;
+    font-size: 24px;
+
+}
+
